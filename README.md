@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<a href="https://app.daily.dev/ferouzkassim"><img src="https://api.daily.dev/devcards/v2/sXjShus9TywJktZIzRL3T.png?r=4ab&type=default" width="356" alt="ferouz kassim kassim's Dev Card"/></a>
 <!--
 **ferouzkassim/ferouzkassim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
