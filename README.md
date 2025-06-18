@@ -2,6 +2,9 @@
 - 🔭 I’m currently working on School management systems Ecommerce/Dropshipping platforms
 - 🌱 I’m currently learning everything that crosses my minds from binary to deployment
 - ⚡ Fun fact: ...Before you write it, it has to make sense to you first
+- <a href="https://learn.microsoft.com/api/achievements/share/en-us/ferouzkassim-5712/WZLS3AKN?sharingId=9E764CA6512D57DB">Results !</a>
+
+
   <a href="https://teamdroid.systems">Check me out</a>
 
   
